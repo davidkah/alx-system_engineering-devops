@@ -1,0 +1,4 @@
+#!/bin/bash
+
+find. -typed!-path.-print|wc -l
+

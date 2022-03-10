@@ -1,1 +1,6 @@
-hello,world
+#!/bin/bash
+
+ech "
+    hello,word
+
+"
